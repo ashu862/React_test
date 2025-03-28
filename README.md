@@ -1,2 +1,2 @@
-# React_test
-Simple Skeleton website project using React and CSS
+# test_project
+ react css test project basic development
